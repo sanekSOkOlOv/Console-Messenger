@@ -1,5 +1,5 @@
 ﻿using System;
-using 
+using Newtonsoft.Json;
 
 namespace ConsoleMessanger
 {
@@ -18,5 +18,4 @@ namespace ConsoleMessanger
             //System < 02.06.2022 12:21:54 > : Online
         }
     }
-}
 }

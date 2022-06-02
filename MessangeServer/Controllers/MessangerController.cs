@@ -10,6 +10,7 @@ namespace MessangeServer.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+
     public class MessangerController : ControllerBase
     {
         // GET api/<MessangerController>/5
