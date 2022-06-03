@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleMessanger", "ConsoleMessanger.csproj", "{F44B79ED-DE49-46C9-9580-10F12F89F14C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessangeServer", "..\MessangeServer\MessangeServer.csproj", "{41D9CDC3-EC1A-4B45-B7DD-B6EBE16E96EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessangeServer", "..\MessangeServer\MessangeServer.csproj", "{E19DED57-EB02-4EBB-86A6-5BEC8AB48C1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{F44B79ED-DE49-46C9-9580-10F12F89F14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F44B79ED-DE49-46C9-9580-10F12F89F14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F44B79ED-DE49-46C9-9580-10F12F89F14C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{41D9CDC3-EC1A-4B45-B7DD-B6EBE16E96EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{41D9CDC3-EC1A-4B45-B7DD-B6EBE16E96EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{41D9CDC3-EC1A-4B45-B7DD-B6EBE16E96EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{41D9CDC3-EC1A-4B45-B7DD-B6EBE16E96EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E19DED57-EB02-4EBB-86A6-5BEC8AB48C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19DED57-EB02-4EBB-86A6-5BEC8AB48C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19DED57-EB02-4EBB-86A6-5BEC8AB48C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19DED57-EB02-4EBB-86A6-5BEC8AB48C1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
