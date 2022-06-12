@@ -11,10 +11,10 @@
             <ColumnDefinition Width="793*"/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <ListBox HorizontalAlignment="Left" Height="273" Margin="35,33,0,0" VerticalAlignment="Top" Width="697"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="35,337,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="199" SpellCheck.IsEnabled="True"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="35,387,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="697"/>
-        <Button Content="GO!" HorizontalAlignment="Left" Margin="638,323,0,0" VerticalAlignment="Top" Width="94" Height="46" FontFamily="Britannic Bold" FontSize="14"/>
+        <ListBox x:Name="MessagesLB" HorizontalAlignment="Left" Height="273" Margin="35,33,0,0" VerticalAlignment="Top" Width="697" FontFamily="Bodoni MT" AutomationProperties.Name="MessagesLB"/>
+        <TextBox x:Name="UserNameTB" HorizontalAlignment="Left" Height="23" Margin="35,337,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="199" SpellCheck.IsEnabled="True" AutomationProperties.Name="UserNameTB"/>
+        <TextBox x:Name="MessageTB" HorizontalAlignment="Left" Height="23" Margin="35,387,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="697" AutomationProperties.Name="MessageTB"/>
+        <Button Content="GO!" HorizontalAlignment="Left" Margin="638,323,0,0" VerticalAlignment="Top" Width="94" Height="46" FontFamily="Britannic Bold" FontSize="14" Click="Button_Click"/>
 
     </Grid>
 </Window>
