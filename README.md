@@ -1,1 +1,1 @@
-# Messenger is my coursework at university.
+# My coursework at university.
